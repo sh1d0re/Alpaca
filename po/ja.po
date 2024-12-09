@@ -1,8 +1,8 @@
 # Japanese translations for Alpaca package.
 # Copyright (C) 2024 Jeffry Samuel Eduarte Rojas
 # This file is distributed under the same license as the Alpaca package.
-# YOUR NAME <YOUR EMAIL OPTIONAL>, 2024.
-#
+# Sh1d0re <Discord: Sh1d0re#0>, 2024.
+# こんにちは、当該プロジェクト「Alpaca」の日本語翻訳を務めたSh1d0reです。一部DeepL翻訳を使用している箇所があるので、おかしい所やより良い表現等がございましたら、遠慮なくAlpacaレポの当リンク内で教えて頂けると幸いです（https://github.com/Jeffser/Alpaca/discussions/153#discussioncomment-11485326）。
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -20,105 +20,105 @@ msgstr ""
 #: data/com.jeffser.Alpaca.desktop.in:3
 #: data/com.jeffser.Alpaca.metainfo.xml.in:7
 msgid "Alpaca"
-msgstr ""
+msgstr "Alpaca"
 
 #: data/com.jeffser.Alpaca.desktop.in:9
 msgid "ai;ollama;llm"
-msgstr ""
+msgstr "ai;ollama;llm"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:8
 msgid "Chat with local AI models"
-msgstr ""
+msgstr "ローカルAIとチャット"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:10
 msgid "An Ollama client"
-msgstr ""
+msgstr "Ollama クライエント"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:11
 #: data/com.jeffser.Alpaca.metainfo.xml.in:844
 msgid "Features"
-msgstr ""
+msgstr "機能"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:13
 msgid "Built in Ollama instance"
-msgstr ""
+msgstr "組み込みOllamaインスタンス"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:14
 #: data/com.jeffser.Alpaca.metainfo.xml.in:846
 msgid "Talk to multiple models in the same conversation"
-msgstr ""
+msgstr "一つのセッションで複数のAIモデルとの会話"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:15
 #: data/com.jeffser.Alpaca.metainfo.xml.in:847
 msgid "Pull and delete models from the app"
-msgstr ""
+msgstr "アプリからモデルを消去・追加"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:16
 msgid "Have multiple conversations"
-msgstr ""
+msgstr "複数の会話が可能"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:17
 msgid "Image recognition (Only available with compatible models)"
-msgstr ""
+msgstr "画像認識 （複数のモデルに限る）"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:18
 msgid "Plain text documents recognition"
-msgstr ""
+msgstr "テキストドキュメントの認識"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:19
 msgid "Import and export chats"
-msgstr ""
+msgstr "チャット内容をインポート・エクスポート"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:20
 msgid "Append YouTube transcripts to the prompt"
-msgstr ""
+msgstr "YouTube動画の内容をプロンプトに追加"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:21
 msgid "Append text from a website to the prompt"
-msgstr ""
+msgstr "ウェブサイトの内容をプロンプトに追加"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:22
 msgid "PDF recognition"
-msgstr ""
+msgstr "PDFファイルの認識"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:24 src/window.ui:1030
 msgid "Disclaimer"
-msgstr ""
+msgstr "免責事項"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:25
 msgid ""
 "This project is not affiliated at all with Ollama, I'm not responsible for "
 "any damages to your device or software caused by running code given by any "
 "models."
-msgstr ""
+msgstr "当プロジェクトはOllamaとの関係性は一切ございません。当ソフトウェアによって引き起こされる損害や損失等に対する責任は負います"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:28
 msgid "Jeffry Samuel Eduarte Rojas"
-msgstr ""
+msgstr "ジェファりー・サムエル・エドゥアルテ・ロハス (Jeffry Samuel Eduarte Rojas)"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:54
 msgid "A normal conversation with an AI Model"
-msgstr ""
+msgstr "AIモデルと通常会話"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:58
 msgid "A conversation involving image recognition"
-msgstr ""
+msgstr "AIモデルと画像認識を含む会話"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:62
 msgid "A conversation showing code highlighting"
-msgstr ""
+msgstr "コードハイライトを含む会話"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:66
 msgid "A Python script running inside integrated terminal"
-msgstr ""
+msgstr "内部ターミナルで実行されるPythonスクリプト"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:70
 msgid "A conversation involving a YouTube video transcript"
-msgstr ""
+msgstr "YouTube動画内の会話を含む会話"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:74
 msgid "Multiple models being downloaded"
-msgstr ""
+msgstr "複数のモデルがダウンロード中"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:88
 #: data/com.jeffser.Alpaca.metainfo.xml.in:98
@@ -138,33 +138,34 @@ msgstr ""
 #: data/com.jeffser.Alpaca.metainfo.xml.in:394
 #: data/com.jeffser.Alpaca.metainfo.xml.in:419
 msgid "New"
-msgstr ""
+msgstr "新機能"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:90
 msgid "New option --ask MESSAGE, to open a new 'Quick Ask' window"
-msgstr ""
+msgstr "'クイックアスク' ウィンドウを --ask MESSAGEで開く"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:91
 msgid "Gnome Search integration now works whilst the app is opened"
-msgstr ""
+msgstr "アプリを開いているときに Gnome Search の統合が機能するようになりました"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:100
 msgid ""
 "Added launch paramenters --ask MESSAGE, --new-chat CHAT, --select-chat CHAT, "
 "--list-chats, --version"
-msgstr ""
+msgstr "起動パラメータ --ask MESSAGE、--new-chat CHAT、--select-chat CHAT、を追加しました"
+"--list-chats, --version"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:101
 msgid "Added integration as Gnome Search Provider"
-msgstr ""
+msgstr "Gnome Search Provider として統合を追加しました"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:102
 msgid "Updated Ollama to v0.4.2 with new models"
-msgstr ""
+msgstr "Ollama を新モデルを含むバージョン v0.4.2 にアップデートしました"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:111
 msgid "User messages are now compacted into bubbles"
-msgstr ""
+msgstr "ユーザーのメッセージは吹き出しに収まるようになりました"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:113
 #: data/com.jeffser.Alpaca.metainfo.xml.in:141
@@ -185,214 +186,215 @@ msgstr ""
 #: data/com.jeffser.Alpaca.metainfo.xml.in:413
 #: data/com.jeffser.Alpaca.metainfo.xml.in:429
 msgid "Fixes"
-msgstr ""
+msgstr "修正事項"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:115
 msgid ""
 "Fixed re connection dialog not working when 'use local instance' is selected"
-msgstr ""
+msgstr "「ローカルインスタンスを使用」が選択されている場合に再接続ダイアログが機能しない問題を修正"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:116
 msgid "Fixed model manager not adapting to large system fonts"
-msgstr ""
+msgstr "モデルマネージャーが大きなシステムフォントに適応しない問題を修正"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:125
 msgid "Details page for models"
-msgstr ""
+msgstr "モデルの詳細ページ"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:126
 msgid ""
 "Model selector gets replaced with 'manage models' button when there are no "
 "models downloaded"
-msgstr ""
+msgstr "モデルがダウンロードされていない場合、モデルセレクターは「モデルの管理」ボタンに置​​き換えられます"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:127
 msgid "Added warning when model is too big for the device"
-msgstr ""
+msgstr "モデルがデバイスに対して過負荷な場合の警告を追加しました"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:128
 msgid "Added AMD GPU indicator in preferences"
-msgstr ""
+msgstr "設定にAMD GPUインディケーターを追加しました"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:137
 msgid "Better system for handling dialogs"
-msgstr ""
+msgstr "ダイアログ用の改善されたシステム"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:138
 msgid "Better system for handling instance switching"
-msgstr ""
+msgstr "インスタンス切り替え用のシステム改善"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:139
 msgid "Remote connection dialog"
-msgstr ""
+msgstr "リモート接続ダイアログ"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:143
 msgid "Fixed: Models get duplicated when switching remote and local instance"
-msgstr ""
+msgstr "修正: リモートとローカルのインスタンス切り替えによりモデルが複製される"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:144
 msgid "Better internal instance manager"
-msgstr ""
+msgstr "内部インスタンスマネージャーの改善"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:153
 msgid "Added 'Cancel' and 'Save' buttons when editing a message"
-msgstr ""
+msgstr "プロンプト編集中に'キャンセル'と'保存'ボタンを追加しました"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:157
 msgid "Better handling of image recognition"
-msgstr ""
+msgstr "画像認識の処理機能の改善"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:158
 msgid "Remove unused files when canceling a model download"
-msgstr ""
+msgstr "モデルダウンロードをキャンセル時に未使用のファイルを削除する"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:159
 msgid "Better message blocks rendering"
-msgstr ""
+msgstr "メッセージブロックレンダリングの向上"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:168
 msgid "Run bash and python scripts straight from chat"
-msgstr ""
+msgstr "チャットから直接 Bash, Python スクリプトを実行"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:169
 msgid "Updated Ollama to 0.3.12"
-msgstr ""
+msgstr "Ollama をバージョン v0.3.12 にアップデートしました"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:170
 msgid "New models!"
-msgstr ""
+msgstr "新規追加されたモデル"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:174
 msgid "Fixed and made faster the launch sequence"
-msgstr ""
+msgstr "起動シーケンス修正による高速化"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:175
 msgid "Better detection of code blocks in messages"
-msgstr ""
+msgstr "メッセージ内のコードブロック検出の向上"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:176
 msgid "Fixed app not loading in certain setups with Nvidia GPUs"
-msgstr ""
+msgstr "Nvidia GPU を使用した特定のセットアップでアプリが読み込まれない問題の修正"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:185
 msgid ""
 "Fixed message notification sometimes crashing text rendering because of them "
 "running on different threads"
-msgstr ""
+msgstr "メッセージ通知が別のスレッドで実行されているためにテキストのレンダリングがクラッシュすることがある問題の修正"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:194
 msgid "Fixed message generation sometimes failing"
-msgstr ""
+msgstr "メッセージ生成失敗の問題の修正"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:203
 msgid "Sidebar resizes with the window"
-msgstr ""
+msgstr "サイドバーがウィンドウに比例してリサイズ"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:204
 msgid "New welcome dialog"
-msgstr ""
+msgstr "新起動ダイアログ"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:205
 msgid "Message search"
-msgstr ""
+msgstr "メッセージ検索"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:206
 msgid "Updated Ollama to v0.3.11"
-msgstr ""
+msgstr "Ollamaをバージョン v0.3.11 にアップデートしました"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:207
 msgid "A lot of new models provided by Ollama repository"
-msgstr ""
+msgstr "Ollamaレポジトリからの新モデル"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:211
 msgid ""
 "Fixed text inside model manager when the accessibility option 'large text' "
 "is on"
-msgstr ""
+msgstr "アクセシビリティオプション「ラージテキスト」がオンになっている場合の"
+"モデルマネージャー内のテキストの修正"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:212
 msgid "Fixed image recognition on unsupported models"
-msgstr ""
+msgstr "サポートされていないモデルでの画像認識の修正"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:221
 msgid "Fixed spinner not hiding if the back end fails"
-msgstr ""
+msgstr "バックエンドが失敗した場合にスピナーが非表示にならない問題の修正"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:222
 msgid "Fixed image recognition with local images"
-msgstr ""
+msgstr "ローカル画像による画像認識の修正"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:223
 msgid "Changed appearance of delete / stop model buttons"
-msgstr ""
+msgstr "モデルの削除・停止ボタンの外観の変更"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:224
 msgid "Fixed stop button crashing the app"
-msgstr ""
+msgstr "停止ボタンがアプリをクラッシュする問題の修正"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:228
 msgid "Made sidebar resize a little when the window is smaller"
-msgstr ""
+msgstr "ウィンドウが小さいときのサイドバーサイズ変更"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:229
 msgid "Instant launch"
-msgstr ""
+msgstr "直ぐに起動"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:238
 msgid "Fixed error on first run (welcome dialog)"
-msgstr ""
+msgstr "最初の実行時のエラー修正 (Welcome dialog)"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:239
 msgid "Fixed checker for Ollama instance (used on system packages)"
-msgstr ""
+msgstr "Ollama インスタンスチェッカーの修正 (システムパッケージで使用)"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:248
 msgid "Fixed 'clear chat' option"
-msgstr ""
+msgstr "「クリアチャット」オプションの修正"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:249
 msgid "Fixed welcome dialog causing the local instance to not launch"
-msgstr ""
+msgstr "ローカルインスタンスが起動しない原因となる起動ダイアログの修正"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:250
 msgid "Fixed support for AMD GPUs"
-msgstr ""
+msgstr "AMD GPU サポートの修正"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:259
 msgid "Model, message and chat systems have been rewritten"
-msgstr ""
+msgstr "モデル・メッセージ・チャットシステムの書き直し"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:260
 msgid "New models are available"
-msgstr ""
+msgstr "新たなモデルが使用可能になりました"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:261
 msgid "Ollama updated to v0.3.9"
-msgstr ""
+msgstr "Ollamaをバージョン v0.3.9 にアップデートしました"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:262
 msgid "Added support for multiple chat generations simultaneously"
-msgstr ""
+msgstr "複数世代同時チャットサポートの追加"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:263
 msgid "Added experimental AMD GPU support"
-msgstr ""
+msgstr "試験的なAMD GPUサポートの追加"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:264
 msgid "Added message loading spinner and new message indicator to chat tab"
-msgstr ""
+msgstr "メッセージ読み込みスピナーと新しいメッセージインジケーターをチャットタブに追加"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:265
 msgid "Added animations"
-msgstr ""
+msgstr "アニメーションの追加事項"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:266
 msgid "Changed model manager / model selector appearance"
-msgstr ""
+msgstr "モデル変更と選択画面のデザイン変更"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:267
 msgid "Changed message appearance"
-msgstr ""
+msgstr "メッセージデザインの変更"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:268
 msgid "Added markdown and code blocks to user messages"
